@@ -22,7 +22,7 @@ body {
 /* колір фона шапки #FFFFFF */
 
 /* Шапка сайту */
-.logo, .logo-part:hover {
+.logo, .logo-part:focus {
     color: var(--accent-color);
 }
 
